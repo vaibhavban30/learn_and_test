@@ -1,0 +1,52 @@
+body{
+    background-color: #C2FFF9;
+}
+h1{
+    text-align: center;
+    color: #46244C;
+}
+.physics{
+    background-color: #F3E9DD;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.chemistry{
+    background-color: #C3E5AE;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.maths{
+    background-color: #F9FFA4;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+p{
+     font-size: large;
+}
+h3{
+    font-size: large;
+}
+.quiz
+{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    color: red;
+}
+button{
+    background-color: #FBD6D2;
+    font-size: x-large;
+    border-radius: 20px;
+    padding: 20px;
+}
+button:hover{
+    background-color: gold;
+}
+.link{
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
